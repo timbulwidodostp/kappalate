@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'kappalate': Estimating the local average treatment effect (LATE) using Abadie's kappa approach and other weighting estimators Use kappalate With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f kappalate.ado
+f kappalate.sthlp
