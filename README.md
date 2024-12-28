@@ -1,6 +1,8 @@
 # kappalate
 Estimating the local average treatment effect (LATE) using Abadie's kappa approach and other weighting estimators Use kappalate With STATA 18
 
+https://www.youtube.com/watch?v=KkmzOtx2ge4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
